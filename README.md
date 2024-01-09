@@ -1,1 +1,1 @@
-READ ME PLZ
+Wikikpedia has changed the [Endangered species page](https://web.archive.org/web/20190928151243/https://en.wikipedia.org/wiki/Endangered_species) we use in the web scraping exericise in the Python class, "Preparing & Displaying Data with Python". Using the [Way Back Machine](https://web.archive.org) web archive, we've copied the elements we scrape in the lesson.
